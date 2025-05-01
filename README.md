@@ -31,5 +31,14 @@ Our mission is to inspire and support our members in building healthier and stro
 - **Crossfit** – Improve stamina through hardcore workouts with certified CrossFit trainers.
 
 ---
+## 🧑‍🏫 Meet Our Trainers
 
+- **David Williams** – Body Building Coach  
+- **Rosy Rivera** – Cardio Coach  
+- **Matt Stone** – Fitness Coach  
+- **Sofia Lauren** – Crossfit Coach  
+
+*(Each trainer is shown with relevant action photos and social media links.)*
+
+---
 ![image alt](https://github.com/Amrenderkumar/gym-website/blob/a66b4dd6e72052ab0751d33488529e335f4050bd/screenshort1.png)
