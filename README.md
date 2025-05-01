@@ -58,5 +58,15 @@ Each plan includes access to nutritional guidance and health snacks.
 > — **Sarah Johnson**
 
 ---
+## 📝 Blogs
+
+- Feeling Your Body for Optimal Performance  
+- A Guide to Setting and Achieving Fitness Goals  
+- Top Cool Techniques for Efficient Exercise  
+- A Beginner's Guide to Starting Your Running Journey  
+
+🔗 Click **View All** to read more.
+
+---
 
 ![image alt](https://github.com/Amrenderkumar/gym-website/blob/a66b4dd6e72052ab0751d33488529e335f4050bd/screenshort1.png)
