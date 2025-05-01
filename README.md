@@ -80,5 +80,30 @@ Don’t miss out! Get the latest news and offers.
 📧 Enter your email to subscribe.
 
 ---
+## 📍 Contact Us
+
+**Physique Gym**  
+123 Main Street  
+Surat, Gujarat 395007, India  
+📞 +91 12345 67890  
+✉️ info@physiquegym.com
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 🙌 Acknowledgments
+
+- Images: Unsplash, Pexels  
+- Design inspiration from modern gym websites  
+- Icons: FontAwesome
+
+---
+
+**Built with Hard Work – the key for every success.**
 
 ![image alt](https://github.com/Amrenderkumar/gym-website/blob/a66b4dd6e72052ab0751d33488529e335f4050bd/screenshort1.png)
