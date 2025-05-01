@@ -52,4 +52,11 @@ Our mission is to inspire and support our members in building healthier and stro
 Each plan includes access to nutritional guidance and health snacks.
 
 ---
+## 💬 Testimonials
+
+> *"I've been a member for 6 years now, and I couldn’t be happier with my experience! The trainers are professional and truly motivating."*  
+> — **Sarah Johnson**
+
+---
+
 ![image alt](https://github.com/Amrenderkumar/gym-website/blob/a66b4dd6e72052ab0751d33488529e335f4050bd/screenshort1.png)
