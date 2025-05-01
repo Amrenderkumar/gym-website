@@ -12,11 +12,6 @@ Welcome to the official repository of **Physique**, a modern and responsive fitn
 
 ---
 
-## 🖼️ Screenshot
-
-![Website Screenshot](./screenshort1.png)
-
----
 ## 📌 About Us
 
 Our mission is to inspire and support our members in building healthier and stronger bodies, and to help them achieve their fitness and bodybuilding goals.
