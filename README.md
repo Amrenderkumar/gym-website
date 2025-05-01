@@ -41,4 +41,15 @@ Our mission is to inspire and support our members in building healthier and stro
 *(Each trainer is shown with relevant action photos and social media links.)*
 
 ---
+## 💳 Membership Plans
+
+| Plan | Features | Price |
+|------|----------|--------|
+| **Standard** | Gym floor access, group fitness classes, locker room, and drinks. | ₹800/month |
+| **Professional** | All Standard benefits + priority booking, personal training, and premium locker. | ₹900/month |
+| **Ultimate** | All Professional benefits + nutrition plans, unlimited access, customization, and events. | ₹950/month |
+
+Each plan includes access to nutritional guidance and health snacks.
+
+---
 ![image alt](https://github.com/Amrenderkumar/gym-website/blob/a66b4dd6e72052ab0751d33488529e335f4050bd/screenshort1.png)
