@@ -123,7 +123,7 @@ This project is licensed under the **MIT License**.
 - Trainer profiles with social links
 - 3-tier membership plans
 - Testimonials carousel
-- - Blog section
+- Blog section
 - Image gallery
 **Built with Hard Work – the key for every success.**
 
