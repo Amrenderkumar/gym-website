@@ -119,7 +119,7 @@ This project is licensed under the **MIT License**.
 ## 🚀 Features
 - Fully responsive layout
 - Hero section with call-to-action
-- - Services with images and descriptions
+- Services with images and descriptions
 - Trainer profiles with social links
 **Built with Hard Work – the key for every success.**
 
