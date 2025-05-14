@@ -107,7 +107,10 @@ This project is licensed under the **MIT License**.
 
 - **01. Unique Concepts**  
   Redefining excellence in fitness transformation.
-  
+
+  - **02. Affordable Prices**  
+  Accessible plans for all fitness levels.
+
 **Built with Hard Work – the key for every success.**
 
 ![image alt](https://github.com/Amrenderkumar/gym-website/blob/a66b4dd6e72052ab0751d33488529e335f4050bd/screenshort1.png)
