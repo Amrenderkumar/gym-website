@@ -119,6 +119,8 @@ This project is licensed under the **MIT License**.
 ## 🚀 Features
 - Fully responsive layout
 - Hero section with call-to-action
+- - Services with images and descriptions
+- Trainer profiles with social links
 **Built with Hard Work – the key for every success.**
 
 ![image alt](https://github.com/Amrenderkumar/gym-website/blob/a66b4dd6e72052ab0751d33488529e335f4050bd/screenshort1.png)
