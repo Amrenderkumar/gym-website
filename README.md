@@ -123,6 +123,8 @@ This project is licensed under the **MIT License**.
 - Trainer profiles with social links
 - 3-tier membership plans
 - Testimonials carousel
+- - Blog section
+- Image gallery
 **Built with Hard Work – the key for every success.**
 
 ![image alt](https://github.com/Amrenderkumar/gym-website/blob/a66b4dd6e72052ab0751d33488529e335f4050bd/screenshort1.png)
