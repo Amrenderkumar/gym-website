@@ -2,7 +2,7 @@
 The all over details in their.
 # Physique Fitness Website 💪
 
-Welcome to the official repository of **Physique**, a modern and responsive fitness and bodybuilding gym website. This project showcases an engaging layout highlighting services, trainers, memberships, and client testimonials designed for fitness businesses.
+Welcome to the official repository of **Physique**, a modern and responsive fitness and bodybuilding gym website. This project showcases an engaging layout highlighting services, trainers, memberships, and client testimonials designed for fitness businesses. 
  
 ---
   
